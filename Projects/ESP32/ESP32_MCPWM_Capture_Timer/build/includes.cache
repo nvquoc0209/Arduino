@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\137151\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.3\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\137151\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.3\\variants\\doitESP32devkitV1"
+  },
+  {
+    "Sourcefile": "c:\\Users\\137151\\Documents\\GIT_PRIVATE\\Arduino\\Projects\\ESP32\\ESP32_MCPWM_Capture_Timer\\build\\sketch\\ESP32_MCPWM_Capture_Timer.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
