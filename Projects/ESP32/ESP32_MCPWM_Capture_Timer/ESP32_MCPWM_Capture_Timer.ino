@@ -1,6 +1,7 @@
 // Reference: https://docs.espressif.com/projects/esp-idf/en/v4.2/esp32/api-reference/peripherals/mcpwm.html
 #include "driver/mcpwm.h"
 #define GPIO_CAP0_IN 25 //Set GPIO 25 as input CAP0
+// Wire connect from LED_BUILTIN pin to GPIO_CAP0_IN pin
 //=========================================================================
 void setup(void)
 {
